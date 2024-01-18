@@ -1,7 +1,6 @@
 # Return of The Walkers Stable A21
 
 # Features
-
 ## Survival
 
   - Farming – Grow Wheat, Apple, Strawberry, Cocoa, Carrot, Cucumber, Leek, Lettuce, Melon, Onion, Pepper, Tomato and Blackberry Crops
