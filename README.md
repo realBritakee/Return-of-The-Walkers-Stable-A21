@@ -1,6 +1,6 @@
 # Return of The Walkers Stable A21
 
-![image]([[https://github.com/realBritakee/britakeesserversidemods/assets/127439938/3af78b4d-ee1e-4e21-acdd-1cabeafcf569](https://imgur.com/W91WrE9](https://github.com/realBritakee/Return-of-The-Walkers-Stable-A21/blob/main/returnofthewalkers.png?raw=true))
+
 
 # Survival Features
   - Farming – Grow Wheat, Apple, Strawberry, Cocoa, Carrot, Cucumber, Leek, Lettuce, Melon, Onion, Pepper, Tomato and Blackberry Crops
