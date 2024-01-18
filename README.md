@@ -135,7 +135,8 @@
   - To The 7 Days to Die Community
 
 
+# Need help
 
-## When reporting bugs please try and post with your output log file located in your install location under the “7DaysToDie_Data” Folder. (Please use the support link for bug reports.)
+  - When reporting bugs please try and post with your output log file located in your install location under the “7DaysToDie_Data” Folder. (Please use the support link for bug reports.)
 
-New save game required when installing mod for first time! Do not use a save game from any vanilla game, older version of mod or another mod.
+  - New save game required when installing mod for first time! Do not use a save game from any vanilla game, older version of mod or another mod.
