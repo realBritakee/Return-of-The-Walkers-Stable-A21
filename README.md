@@ -1,4 +1,4 @@
-# Return of The Walkers Stable A21
+# Return of the Walkers Stable A21
 
 ![image](https://github.com/realBritakee/Return-of-The-Walkers-Stable-A21/assets/127439938/f9925656-924a-4ba2-a9ab-1aeab2272cbd)
 
