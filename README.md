@@ -2,7 +2,7 @@
 
 # Features
 
-- ## Survival
+## Survival
 
   - Farming – Grow Wheat, Apple, Strawberry, Cocoa, Carrot, Cucumber, Leek, Lettuce, Melon, Onion, Pepper, Tomato and Blackberry Crops
   - Schematics – New schematics to find to learn how to craft new recipes
