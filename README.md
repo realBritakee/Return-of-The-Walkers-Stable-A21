@@ -17,3 +17,14 @@
   - Traders – Modified trader locations that feature 2 new traders, one specializing in schematics and the other quests and reward papers
   - Class Stores – Featuring 2 regular traders and the 2 new traders with all the class vending machines for buying goods
   - Fire – Fire elements added to game. Flammable objects like wood blocks can catch fire and burn. Fire Extinguisher and Flame Thrower included. Fire enemies that can start fires
+
+# Enemies
+  - NPC Mod – Amazing NPC mod added that has followers, bandits, zombies and more! (A20 Only)
+
+  - Followers – You can hire NPCs to follow you around and cover your back, patrol, guard etc. (A20 Only)
+
+  - Zombie Hordes – All Screamer, Sleeper and Blood Moon Zombie Hordes now feature new zombies
+
+  - Bandits – NPC’s that will attack you on site. Will also attack zombies, survivors and wildlife. Mainly found in harder biomes such as snow and wasteland.
+
+  - Survivors – NPC’s that will only attack you if you attack first. Will attack zombies, bandits and wildlife. Some can be hired as followers (A20 only)
