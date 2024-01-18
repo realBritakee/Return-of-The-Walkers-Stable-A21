@@ -1,8 +1,6 @@
 # Return of The Walkers Stable A21
 
-Features
-## Survival
-
+# Survival Features
   - Farming – Grow Wheat, Apple, Strawberry, Cocoa, Carrot, Cucumber, Leek, Lettuce, Melon, Onion, Pepper, Tomato and Blackberry Crops
 
   - Schematics – New schematics to find to learn how to craft new recipes
@@ -31,7 +29,7 @@ Features
     
   - Fire – Fire elements added to game. Flammable objects like wood blocks can catch fire and burn. Fire Extinguisher and Flame Thrower included. Fire enemies that can start fires
 
-# Enemies
+# Enemies Features
   - NPC Mod – Amazing NPC mod added that has followers, bandits, zombies and more! (A20 Only)
 
   - Followers – You can hire NPCs to follow you around and cover your back, patrol, guard etc. (A20 Only)
